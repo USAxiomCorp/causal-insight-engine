@@ -445,15 +445,15 @@ This is the foundation for the next generation of regulated economy intelligence
 MIT License — see LICENSE for details.
 
 ---
+## 📧 Contact
 
-📧 Contact
+**Michael Aaron Russell**  
+Founder — USAXimCorp  
+Email: Michael@usaxioms.com  
+Website: https://usaxioms.com
 
-Michael Aaron Russell
-Founder — Universal Standard Axiom Corporation
-Foundation for Aligned Intelligence Truth and Humanity
-Email: michael@usaxioms.com
-Website: https://www.usaxioms.com
-
+For licensing inquiries: Michael@usaxioms.com
+For press and media: Michael@usaxioms.com
 ---
 
 Made with WAD Constitutional Mathematics.
