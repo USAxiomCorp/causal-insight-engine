@@ -17,3 +17,14 @@ causal-api
 
 # Or run with uvicorn directly
 uvicorn src.causal_insight.api.server:app --reload
+
+## 📧 Contact
+
+**Michael Aaron Russell**
+Founder — USAXimCorp
+Email: Michael@usaxioms.com
+Website: https://usaxioms.com
+
+For licensing inquiries: Michael@usaxioms.com
+For support: Michael@usaxioms.com
+For partnerships: Michael@usaxioms.com
