@@ -451,8 +451,8 @@ MIT License — see LICENSE for details.
 Michael Aaron Russell
 Founder — Universal Standard Axiom Corporation
 Foundation for Aligned Intelligence Truth and Humanity
-Email: contact@michaelrussell.ai
-Website: https://michaelrussell.ai
+Email: michael@usaxioms.com
+Website: https://www.usaxioms.com
 
 ---
 
